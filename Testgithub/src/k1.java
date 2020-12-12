@@ -5,7 +5,7 @@ public class k1 {
 		System.out.println("Zmiana1");
 		System.out.println("Zmiana2out");
 		System.out.println("Zmiana3in");
-		
+		System.out.println("Zmiana4out");
 
 	}
 
